@@ -2,12 +2,8 @@ body {
   background-image: url("https://images.pexels.com/photos/1650830/pexels-photo-1650830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
 }
 
-footer {
-  color: black;
-  font-size: larger;
-}
 .App {
-  max-width: 600px;
+  max-width: 700px;
   margin: 30px auto;
 }
 .container {
@@ -15,6 +11,8 @@ footer {
 }
 
 .App footer {
-  font-size: 11px;
+  font-size: 12px;
   margin: 10px 0;
+  color: #000000;
+  text-align: center;
 }
